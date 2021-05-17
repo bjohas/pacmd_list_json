@@ -12,4 +12,6 @@ https://gitlab.freedesktop.org/pulseaudio/pulseaudio/-/issues/812
 
 ### Similar projects
 
-https://gist.github.com/zyga/5534776 - didn't work for me.
+* https://gist.github.com/zyga/5534776 - didn't work for me.
+* Now fixed https://gist.github.com/zyga/5534776#gistcomment-3742655
+
